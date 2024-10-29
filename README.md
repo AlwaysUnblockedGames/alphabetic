@@ -1,5 +1,5 @@
 # Alphabetic Exploit
-This is a cloaking proxy launcher targeted at school filters and monitering system. It can open unfiltered tabs that are invisible on the teacher dashboard.
+This is a cloaking proxy launcher targeted at school filters and monitering systems. It can open unfiltered tabs that are invisible on the teacher dashboard.
 
 It will likely also work with other Chrome web filters and monitoring software, as well as with most network-wide filters.
 
